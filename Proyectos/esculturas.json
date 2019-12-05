@@ -1,0 +1,159 @@
+{
+  "categoria" : "Coupe du Monde de la Pâtisserie",
+  "pastelero" : "Amaury Guichon",
+  "libro" : "The Art of Flavor",
+  "secretBase" : "Super tower",
+  "active" : true,
+  "productos" : [
+    {
+      "imagen" : "img/amazona.png",
+      "name" : "Las Amazonas",
+      "inspiracion" : "Naturaleza",
+      "tipo" : "Escultura",
+      "powers" : [
+        "Chocolate",
+        "Aerografo",
+        "Modelado",
+        "Tallado"
+      ]
+    },
+    {
+      "imagen" : "img/centauro.png",
+      "name" : "El Centauro",
+      "inspiracion" : "Mitologia Griega",
+      "tipo" : "Escultura",
+      "powers" : [
+        "Chocolate",
+        "Aerografo",
+        "Modelado",
+        "Tallado"
+      ]
+    },
+    {
+      "imagen" : "img/samurai.png",
+      "name" : "El Samurai",
+      "inspiracion" : "Cultura Japonesa",
+      "tipo" : "Escultura",
+      "powers" : [
+        "Chocolate",
+        "Aerografo",
+        "Modelado",
+        "Tallado"
+      ]
+    },
+    {
+      "imagen" : "img/kraken.png",
+      "name" : "El Kraken",
+      "inspiracion" : "Mitologia Nordica",
+      "tipo" : "Escultura",
+      "powers" : [
+        "Chocolate",
+        "Aerografo",
+        "Modelado",
+        "Tallado"
+      ]
+    },
+    {
+      "imagen" : "img/avefenix.png",
+      "name" : "Ave Fenix",
+      "inspiracion" : "Mitologia Griega",
+      "tipo" : "Escultura",
+      "powers" : [
+        "Chocolate",
+        "Aerografo",
+        "Modelado",
+        "Tallado"
+      ]  
+    },
+    {
+      "imagen" : "img/dragon.png",
+      "name" : "El Dragon",
+      "inspiracion" : "Mitologia China",
+      "tipo" : "Escultura",
+      "powers" : [
+        "Chocolate",
+        "Aerografo",
+        "Modelado",
+        "Tallado"
+      ]
+    },
+    {
+      "imagen" : "img/elongo.png",
+      "name" : "The Mushroom",
+      "inspiracion" : "Los Bosques",
+      "tipo" : "Postre",
+      "powers" : [
+        "Cremoso de Vainilla y mascarpone",
+        "Compota de Frutos del Bosque",
+        "Esponjoso de Vainilla",
+        "Glaseado Vino Tinto",
+        "Espolvoreado de Coco"
+      ]
+    },
+    {
+      "imagen" : "img/cocos1.png",
+      "name" : "The Coconut",
+      "inspiracion" : "El Caribe",
+      "tipo" : "Postre",
+      "powers" : [
+        "Baba en Maracuya y Ron",
+        "Compota de Anana y Maracuya",
+        "Cremoso de Vainilla",
+        "Chocolate Cepillado",
+        "Cremoso de Maracuya"
+      ]
+    },
+    {
+      "imagen" : "img/elreloj.png",
+      "name" : "The Clock",
+      "inspiracion" : "El Tiempo",
+      "tipo" : "Postre",
+      "powers" : [
+        "Mousse de Chocolate",
+        "Cremoso de Caramelo",
+        "Financier de Cafe",
+        "Esponjoso de Cafe",
+        "Glaseado de Chocolate"
+      ]
+    },
+    {
+      "imagen" : "img/navidad.png",
+      "name" : "The Christmas",
+      "inspiracion" : "Navidad",
+      "tipo" : "Postre",
+      "powers" : [
+        "Compota de Berries",
+        "Mousse de Mascarpone",
+        "Bizcocho Joconda",
+        "Esponjoso de Almendra",
+        "Baño en chocolate "
+      ]
+    },
+    {
+      "imagen" : "img/saturno1.png",
+      "name" : "The Saturn",
+      "inspiracion" : "Sistema Solar",
+      "tipo" : "Postre",
+      "powers" : [
+        "Mousse de Queso",
+        "Compota de Arandanos",
+        "Esponjoso de Almendras",
+        "Coquilla de Chocolate",
+        "Pintura con Aerografo"
+      ]
+    },
+    {
+      "imagen" : "img/escafandra.png",
+      "name" : "The Army of Cuteness",
+      "inspiracion" : "Armada",
+      "tipo" : "Postre",
+      "powers" : [
+        "Cremoso de Maracuya",
+        "Mousse de Vainilla",
+        "Esponjoso de avellana",
+        "Almibar de Vainilla y Maracuya",
+        "Decoracion de Chocolate"
+      ]
+    }
+  ]
+}
